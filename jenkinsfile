@@ -1,7 +1,7 @@
 pipeline {
     environment {
         registry = "lailasd/tp4"
-        registryCredential = 'dockerhub'
+        registryCredential = '31687155-3303-49d0-9872-b1a187f6321e'
         dockerImage = ''
     }
     agent any
